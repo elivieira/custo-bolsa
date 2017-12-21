@@ -3,6 +3,8 @@
 ####### Disponível em https://revistacantareira.files.wordpress.com/2012/09/ultimo-artigo1.pdf
 ####### http://cnpq.br/web/guest/noticiasviews/-/journal_content/56_INSTANCE_a6MO/10157/953956
 
+### Este programa está disponível em interface de usuário em https://justica.social/gastamos
+
 
 custo.bolsa <- function(titulo, mes, ano) {
   meses <- c('Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
